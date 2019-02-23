@@ -16,4 +16,4 @@ Chatbot Workflow :
 5. The score table gets updated for each id , and the scores are as follows :- verb = 25, nouns = 30, adjective = 20, adverb = 15, subject = 5.
 6. The id having the highest score is used to find the answer from answer table and it is displayed.
 
-Note-The chatbot have good accuracy if the feeded has all combination for word for forming the question. And you can not view the score table as it is created and destroyed for each question asked.
+Note-The chatbot have good accuracy if the feeded sentence have all the combination of word for forming the question. And you can not view the score table as it is created and destroyed for each question asked.
