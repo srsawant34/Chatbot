@@ -11,7 +11,7 @@ db=client.avas
 
 m=0
 
-c=82
+c=db.answer.count()
 
 print("Enter number of questions")
 z=int(input())
